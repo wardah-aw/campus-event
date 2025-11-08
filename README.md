@@ -1,6 +1,7 @@
 **Campus Event Management Portal**
 
 **Overview**
+
 A web portal for university events. Students can see and RSVP for events, and the admin can track attendance. Pages include Home, About, Events, Gallery, and Contact. The project is Dockerized for easy running.
 
 
@@ -24,6 +25,7 @@ A web portal for university events. Students can see and RSVP for events, and th
 3. docker run -p 8080:80 campus-event
 
 **Open http://localhost:8080 in a browser.**
+
 
 
 
