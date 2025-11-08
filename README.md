@@ -1,22 +1,18 @@
-**Campus Event Management Portal
-****Overview
-**
+**Campus Event Management Portal**
+**Overview**
 A web portal for university events. Students can see and RSVP for events, and the admin can track attendance. Pages include Home, About, Events, Gallery, and Contact. The project is Dockerized for easy running.
 
 
-**Team
-**
+**Team**
 1. One member did not participate; another used her credentials to complete her tasks (risk of marks deduction).
 2. Active members handled development and Docker setup.
 
-**Challenges
-**
+**Challenges**
 1. Merge conflicts in styles.css
 2. Branch protection rules
 3. Docker image creation issues
 
-**Learnings
-**
+**Learnings**
 1. Importance of teamwork and version control
 2. How to manage branches and resolve conflicts
 3. Working with Docker and containerization
@@ -31,3 +27,4 @@ Open http://localhost:8080 in a browser.
 Working with Docker and containerization
 
 How to Run
+
