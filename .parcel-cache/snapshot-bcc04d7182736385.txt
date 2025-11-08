@@ -1,0 +1,20 @@
+19
+54C:\Users\warda\OneDrive\Documents\A2 Devops\Dockerfile134070776528696838 0
+50C:\Users\warda\OneDrive\Documents\A2 Devops\styles134070621969703391 1
+57C:\Users\warda\OneDrive\Documents\A2 Devops\.dockerignore134070623360920658 0
+54C:\Users\warda\OneDrive\Documents\A2 Devops\.gitignore134070623231578361 0
+56C:\Users\warda\OneDrive\Documents\A2 Devops\package.json134070679346016461 0
+48C:\Users\warda\OneDrive\Documents\A2 Devops\dist134070815753743917 1
+53C:\Users\warda\OneDrive\Documents\A2 Devops\README.md134070621381072542 0
+47C:\Users\warda\OneDrive\Documents\A2 Devops\src134070621778464342 1
+60C:\Users\warda\OneDrive\Documents\A2 Devops\styles\style.css134070795726186185 0
+58C:\Users\warda\OneDrive\Documents\A2 Devops\src\about.html134070621778429482 0
+60C:\Users\warda\OneDrive\Documents\A2 Devops\src\contact.html134070621778471541 0
+59C:\Users\warda\OneDrive\Documents\A2 Devops\src\events.html134070621778440247 0
+60C:\Users\warda\OneDrive\Documents\A2 Devops\src\gallery.html134070621778459590 0
+58C:\Users\warda\OneDrive\Documents\A2 Devops\src\index.html134070815679425503 0
+71C:\Users\warda\OneDrive\Documents\A2 Devops\dist\A2 Devops.e5766a92.css134070815753672844 0
+75C:\Users\warda\OneDrive\Documents\A2 Devops\dist\A2 Devops.e5766a92.css.map134070815753733941 0
+59C:\Users\warda\OneDrive\Documents\A2 Devops\dist\about.html134070815753169815 0
+60C:\Users\warda\OneDrive\Documents\A2 Devops\dist\events.html134070815752681320 0
+59C:\Users\warda\OneDrive\Documents\A2 Devops\dist\index.html134070815753678332 0
