@@ -1,0 +1,14 @@
+13
+77C:\Users\Abdullah Aftab\OneDrive\Desktop\Docker assignent\campus-event\styles134070783103043298 1
+84C:\Users\Abdullah Aftab\OneDrive\Desktop\Docker assignent\campus-event\.dockerignore134070783102944987 0
+83C:\Users\Abdullah Aftab\OneDrive\Desktop\Docker assignent\campus-event\package.json134070783102993347 0
+81C:\Users\Abdullah Aftab\OneDrive\Desktop\Docker assignent\campus-event\.gitignore134070783102963082 0
+87C:\Users\Abdullah Aftab\OneDrive\Desktop\Docker assignent\campus-event\styles\style.css134070808957928945 0
+85C:\Users\Abdullah Aftab\OneDrive\Desktop\Docker assignent\campus-event\src\about.html134070783103003277 0
+81C:\Users\Abdullah Aftab\OneDrive\Desktop\Docker assignent\campus-event\Dockerfile134070783102973675 0
+80C:\Users\Abdullah Aftab\OneDrive\Desktop\Docker assignent\campus-event\README.md134070783102973675 0
+74C:\Users\Abdullah Aftab\OneDrive\Desktop\Docker assignent\campus-event\src134070783103033309 1
+87C:\Users\Abdullah Aftab\OneDrive\Desktop\Docker assignent\campus-event\src\contact.html134070812428379434 0
+86C:\Users\Abdullah Aftab\OneDrive\Desktop\Docker assignent\campus-event\src\events.html134070783103013360 0
+87C:\Users\Abdullah Aftab\OneDrive\Desktop\Docker assignent\campus-event\src\gallery.html134070783103024781 0
+85C:\Users\Abdullah Aftab\OneDrive\Desktop\Docker assignent\campus-event\src\index.html134070783103033309 0
